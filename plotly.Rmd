@@ -87,3 +87,5 @@ scatter_ggplot =
 ggplotly(scatter_ggplot)
 ```
 
+
+# also google flexdashboard with R for more information
